@@ -4,7 +4,7 @@
     "dev": "nodemon app.js"
   },
   "dependencies": {
-    "@google-cloud/firestore": "^1.0.1",
+    "@google-cloud/firestore": "^4.0.0",
     "body-parser": "^1.18.3",
     "consolidate": "^0.15.1",
     "cors": "^2.8.5",
